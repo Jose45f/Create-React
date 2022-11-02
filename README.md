@@ -1,12 +1,17 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 // I added lines below //
 
 To first run it:
-1)Launch terminal and cd into the cloned file(this file).
+
+1) Launch terminal and cd into the cloned file(this file).
+
 2) Once inside directory run: "npm install react-bootstrap bootstrap" in terminal.
+
 3) Last, launch it with "npm start"
+
 4) Discover more below or checkout more on react-bootstrap at: 'https://react-bootstrap.github.io/getting-started/introduction'
 
 // I added lines above //
